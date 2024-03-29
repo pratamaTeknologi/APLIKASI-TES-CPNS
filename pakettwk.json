@@ -1,0 +1,24 @@
+{
+  "status": true,
+  "message": "Get data successful",
+  "Paket": [
+    {
+      "id": "1",
+      "namapaket": "paket 1",
+      "deskripsi": "soal twk",
+      "link": "http.somelink"
+    },
+    {
+      "id": "2",
+      "namapaket": "paket 2",
+      "deskripsi": "soal twk",
+      "link": "http.somelink"
+    },
+    {
+      "id": "3",
+      "namapaket": "paket 3",
+      "deskripsi": "soal twk",
+      "link": "http.somelink"
+    }
+  ]
+}
